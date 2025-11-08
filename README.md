@@ -1,8 +1,8 @@
 ### Welcome! 👋
 
-![readme-hero](https://user-images.githubusercontent.com/52140684/106779943-3f328d00-6626-11eb-8ad0-5db1ea91d644.png)
+![readme-hero](https://private-user-images.githubusercontent.com/52140684/511681547-c113e29e-63e5-4409-8114-fd4e311081e7.png)
 
-![techs](https://user-images.githubusercontent.com/52140684/106784512-2a0c2d00-662b-11eb-96ef-a86bdf6aa4a1.png)
+![techs](https://private-user-images.githubusercontent.com/52140684/511681546-58d24324-9e99-4ec7-9d89-8d26edefc51a.png)
 
 <p align="center">
 <a href="https://twitter.com/stiagoh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="stiagoh" height="30" width="40" /></a>
